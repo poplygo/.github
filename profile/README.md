@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/poplygo/.github/main/profile/assets/hero.svg?v=2" width="100%" alt="Poplygo: anonymous Q and A and instant polls everyone actually joins" />
+<img src="https://raw.githubusercontent.com/poplygo/.github/main/profile/assets/hero.svg?v=3" width="100%" alt="Poplygo: anonymous Q and A and instant polls everyone actually joins" />
 
 <br/><br/>
 
@@ -91,5 +91,5 @@ Lecturers, presenters, event hosts, and streamers who want an honest, live signa
 <br/><br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/poplygo/.github/main/profile/assets/footer.svg?v=2" width="100%" alt="get the room talking, poplygo.tech" />
+<img src="https://raw.githubusercontent.com/poplygo/.github/main/profile/assets/footer.svg?v=3" width="100%" alt="get the room talking, poplygo.tech" />
 </div>
